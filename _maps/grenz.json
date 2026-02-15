@@ -1,6 +1,6 @@
 {
 	"map_name": "Grenzelhoft Military Camp",
-	"map_path": "map_files/vanderlin",
+	"map_path": "map_files/grenz_camp_forest",
 	"map_file": "grenzel_camp_forest.dmm",
 	"immigrant_origin": "Grenzelhoft",
 	"monarch_title": "Lord Commander",
@@ -14,4 +14,5 @@
 		"minetype": null,
 		"space_empty_levels": 0,
 		"space_ruin_levels": 0
+
 }
