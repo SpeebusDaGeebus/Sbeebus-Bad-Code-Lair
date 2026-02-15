@@ -1,0 +1,17 @@
+{
+	"map_name": "Grenzelhoft Military Camp",
+	"map_path": "map_files/vanderlin",
+	"map_file": "grenzel_camp_forest.dmm",
+	"immigrant_origin": "Grenzelhoft",
+	"monarch_title": "Lord Commander",
+	"monarch_title_f": "Queen",
+	"traits": [
+		{"Up": true, "Turf Weather Effects": true, "Cellar": true},
+		{"Up": true, "Down": true, "Turf Weather Effects": true, "Leylines": true},
+		{"Up": true, "Down": true, "Turf Weather Effects": true, "Leylines": true},
+		{"Up": true, "Down": true, "Turf Weather Effects": true},
+		{"Down": true, "Turf Weather Effects": true}],
+		"minetype": null,
+		"space_empty_levels": 0,
+		"space_ruin_levels": 0
+}
